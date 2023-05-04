@@ -1,0 +1,40 @@
+# unicode emoji
+emojy = {
+    # Weather emojy
+    'Clear': 'Ясно \U00002600',
+    'Clouds': 'Облачно \U00002601',
+    'Rain': 'Дождь \U00002614',
+    'Drizzle': 'Дождь \U00002614',
+    'Thunderstorm': 'Гроза \U000026A1',
+    'Snow': 'Снег \U0001F328',
+    # Atmosphere emojy
+    'Mist': 'Туман \U0001F32B',
+    'Smoke': 'Дым \U0001F301',
+    'Haze': 'Легкий туман \U0001F32B',
+    'Dust': 'Пыль \U0001F32B',
+    'Fog': 'Туман \U0001F32B',
+    'Sand': 'Песчаная буря \U0001F42A',
+    'Ash': 'Вулканический пепел \U0001F30B',
+    'Squall': 'Шквалистый ветер \U0001F32C',
+    'Tornado': 'Торнадо \U0001F32A',
+    'drop': '\U0001F4A7',
+    'bomb': '\U0001F4A3',
+    'min': '\U0001F446',
+    'max': '\U0001F447',
+    'wind': '\U0001F4A8',
+    'sunrise': '\U0001F305',
+    'sunset': '\U0001F307',
+    'time': '\U0001F514',
+    'clock': '\U0001F55C',
+    'telescope': '\U0001F52D',
+    'cold': '\U0001F3C2',
+    'hot': '\U0001F525',
+    'normal': '\U0001F343',
+
+    'Sun_smile': '\U0001F31E',
+    'Hand': '\U0001F44B',
+    'write': '\U0001F4DD',
+    # countries
+    'Russia': '\U0001F1F7\U0001F1FA',
+    'USA': '\U0001F1FA\U0001F1F8',
+}
